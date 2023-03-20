@@ -390,3 +390,8 @@ body,html{
   margin-left:32px;
   margin-bottom:32px;
 }
+#breakApartVideo{
+  border-radius:10px;
+  border:1px solid var(--offOrange);
+  margin-right:64px;
+}
